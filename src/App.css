@@ -1,0 +1,53 @@
+.todo-form {
+  
+    text-align: center;
+    background-color:green;
+    border: transparent;
+    border-radius: 5px;
+    width: 80%;
+    margin-left: 20px;
+    height: 200px;
+}
+
+
+.listt {
+  list-style: none;
+  display: flex;
+justify-content: space-evenly;
+}
+
+
+.submit-btn {
+  background-color: red;
+  color: #ffffff;
+  width: 150px;
+  border: #ffffff solid 0.5px;
+  height: 40px;
+}
+
+.inputt{
+  width: 80%;
+  height: 35px;
+  border: none;
+  border-radius: 5px;
+}
+
+.titles {
+float: right;
+margin-right: 50px;
+color: #ffffff;
+}
+
+.done-btn, .delete-btn {
+  height: 40px;
+  width: 100px;
+  border: rgb(84, 229, 71) solid 0.5px;
+  color: rgb(200, 229, 71);
+  background-color: #ffffff
+
+}
+
+
+.listtt {
+  list-style: none;
+}
